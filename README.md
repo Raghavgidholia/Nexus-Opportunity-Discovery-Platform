@@ -13,7 +13,7 @@ All core evaluation deliverables have been organized directly into specialized a
 | :--- | :--- |
 | 📄 **Product Requirements Document** | https://github.com/Raghavgidholia/Nexus-Opportunity-Discovery-Platform/tree/main#:~:text=Product%20Requirements%20Document.pdf |
 | 🎨 **Interactive UI Prototype Link** | https://github.com/Raghavgidholia/Nexus-Opportunity-Discovery-Platform/tree/main#:~:text=14%20minutes%20ago-,figma_prototype_link.md,-Enhance%20Figma%20prototype |
-| 📊 **Project Pitch Presentation Deck** | [`./presentation/Project_Pitch_Deck.pdf`](./presentation/Project_Pitch_Deck.pdf) |
+| 📊 **Project Pitch Presentation Deck** | Pitch Presentation Deck.pdf |
 
 ---
 
