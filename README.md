@@ -12,7 +12,7 @@ All core evaluation deliverables have been organized directly into specialized a
 | Deliverable Segment | Repository Target Asset File Path |
 | :--- | :--- |
 | 📄 **Product Requirements Document** | https://github.com/Raghavgidholia/Nexus-Opportunity-Discovery-Platform/blob/fa30f06e4160bcba2274969bea600babac95014a/Product%20Requirements%20Document.pdf|
-| 🎨 **Interactive UI Prototype Link** | https://github.com/Raghavgidholia/Nexus-Opportunity-Discovery-Platform/tree/main#:~:text=14%20minutes%20ago-,figma_prototype_link.md,-Enhance%20Figma%20prototype |
+| 🎨 **Interactive UI Prototype Link** | https://github.com/Raghavgidholia/Nexus-Opportunity-Discovery-Platform/blob/56a4a2402e1502d44ca869eb4f08de744ef8048b/figma_prototype_link.md |
 | 📊 **Project Pitch Presentation Deck** | (https://github.com/Raghavgidholia/Nexus-Opportunity-Discovery-Platform/blob/4d6a8a9342facf803eadc03a1d23ffa99b10851a/Pitch%20Presentation%20Deck.pdf) |
 
 ---
